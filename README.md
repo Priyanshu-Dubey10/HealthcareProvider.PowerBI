@@ -12,4 +12,4 @@ Converted text-based date values into proper format using pd.to_datetime(df['dat
  🔹 Total Amount by Diagnosis & Service Type via a 100% Stacked Bar Chart 💉
  🔹 Total Billing Amount by Department using a custom visualization technique (placeholders) 🎨
 By integrating Python for data manipulation and Power BI for visualization, this dashboard enhances healthcare financial analytics and decision-making.
-Power BI Services :https://app.powerbi.com/view?r=eyJrIjoiZGNhMzg5ZjQtZjdhNy00NjQxLWIwZDgtOTNhOGM4OGIzYzUyIiwidCI6ImY5YTY4NmJiLTY2OGQtNGYxOC1iNmMyLTA0NjdhYmFhZmMxZSJ9
+Power BI Services :[Live Dashboard ](https://app.powerbi.com/view?r=eyJrIjoiZGNhMzg5ZjQtZjdhNy00NjQxLWIwZDgtOTNhOGM4OGIzYzUyIiwidCI6ImY5YTY4NmJiLTY2OGQtNGYxOC1iNmMyLTA0NjdhYmFhZmMxZSJ9)
